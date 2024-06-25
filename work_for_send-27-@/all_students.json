@@ -1,0 +1,126 @@
+{
+  "active_students": [
+    {
+      "name": "Matthew Sexton",
+      "email": "oyates@example.org",
+      "address": "1086 Fry Stravenue\nPort Elizabeth, MH 44805",
+      "active": true
+    },
+    {
+      "name": "Sarah Griffin",
+      "email": "gardnerjames@example.org",
+      "address": "1481 Reynolds Street\nBooneberg, AZ 84263",
+      "active": true
+    },
+    {
+      "name": "Carl Mitchell",
+      "email": "aprilshelton@example.net",
+      "address": "795 Walton Inlet\nMackenzieville, TN 00683",
+      "active": true
+    },
+    {
+      "name": "Vanessa Rodgers",
+      "email": "jroberts@example.net",
+      "address": "37711 Mary Squares\nJonesport, NH 38846",
+      "active": true
+    },
+    {
+      "name": "Rachel Cross",
+      "email": "evelynwagner@example.net",
+      "address": "PSC 6949, Box 3256\nAPO AP 06653",
+      "active": true
+    },
+    {
+      "name": "Miss Amanda Davis",
+      "email": "ryan68@example.org",
+      "address": "6568 Tracey Divide\nEast Samantha, WV 55901",
+      "active": true
+    },
+    {
+      "name": "Brooke Edwards",
+      "email": "lisalee@example.net",
+      "address": "738 Graham Mountains\nWest Mitchell, AZ 96958",
+      "active": true
+    },
+    {
+      "name": "Xavier Smith",
+      "email": "mchambers@example.com",
+      "address": "3913 Heather Bypass\nWhitebury, IN 90510",
+      "active": true
+    },
+    {
+      "name": "Theresa Dickerson",
+      "email": "robin96@example.net",
+      "address": "109 Glass Bridge Suite 028\nPort Billtown, IL 74072",
+      "active": true
+    },
+    {
+      "name": "Andrew Goodman",
+      "email": "zjames@example.com",
+      "address": "463 Daniel Harbor\nSouth Kathy, OR 38147",
+      "active": true
+    },
+    {
+      "name": "Tasha Blair",
+      "email": "hodgehannah@example.org",
+      "address": "97831 Ronnie Brook\nBarrettfort, WV 79204",
+      "active": true
+    },
+    {
+      "name": "William Smith",
+      "email": "iscott@example.net",
+      "address": "85560 Steven Isle Suite 258\nSouth Robert, MS 77683",
+      "active": true
+    }
+  ],
+  "inactive_students": [
+    {
+      "name": "Denise Benson",
+      "email": "william11@example.com",
+      "address": "PSC 7295, Box 0292\nAPO AA 68219",
+      "active": false
+    },
+    {
+      "name": "Cynthia Stanton",
+      "email": "edwardscharles@example.org",
+      "address": "9214 Anne Isle\nMartinezchester, CO 98861",
+      "active": false
+    },
+    {
+      "name": "Brian Spencer",
+      "email": "paul26@example.com",
+      "address": "6236 Henderson Expressway\nMartinezview, NV 88992",
+      "active": false
+    },
+    {
+      "name": "Steven Roberts",
+      "email": "kristenwilson@example.com",
+      "address": "691 Harris Pine Apt. 327\nPort Dalton, NJ 39728",
+      "active": false
+    },
+    {
+      "name": "Jeffrey Taylor",
+      "email": "eharris@example.com",
+      "address": "62275 Joshua Viaduct Apt. 581\nPetertown, CA 75581",
+      "active": false
+    },
+    {
+      "name": "Clinton Young",
+      "email": "emoss@example.net",
+      "address": "03430 Alicia Common\nNorth Donald, PW 56043",
+      "active": false
+    },
+    {
+      "name": "Jillian Baker",
+      "email": "jacob46@example.net",
+      "address": "7679 Martin Curve Suite 155\nPort Michaelville, ME 19002",
+      "active": false
+    },
+    {
+      "name": "Alison Sellers",
+      "email": "michelle56@example.com",
+      "address": "095 Lisa Path\nEast Denise, MH 92327",
+      "active": false
+    }
+  ]
+}
